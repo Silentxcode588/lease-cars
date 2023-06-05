@@ -513,4 +513,7 @@ body {
   font-size: 16px;
   font-weight: 400;
   color: #0066ff;
+  border: 1px solid #0066ff;
+  border-top: 0;
+  display: block;
 }
